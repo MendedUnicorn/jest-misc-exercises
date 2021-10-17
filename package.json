@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "jest": "^27.2.5"
+  },
+  "name": "jest-tutorial",
+  "version": "1.0.0",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
